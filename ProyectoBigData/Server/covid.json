@@ -1,0 +1,258 @@
+[
+    {
+        "nombre": "Aguascalientes",
+        "Capital": "Aguascalientes",
+        "lat": "21.88234",
+        "lon": "-102.28259",
+        "infectados": "26001",
+        "defunciones": "3540"
+    },
+    {
+        "nombre": "Baja California",
+        "Capital": "Mexicali",
+        "lat": "32.62781",
+        "lon": "-115.45446",
+        "infectados": "44371",
+        "defunciones": "11238"
+    },
+    {
+        "nombre": "Baja California Sur",
+        "Capital": "La Paz",
+        "lat": "24.14437",
+        "lon": "-110.3005",
+        "infectados": "48448",
+        "defunciones": "2563"
+    },
+    {
+        "nombre": "Campeche",
+        "Capital": "Campeche",
+        "lat": "19.84386",
+        "lon": "-90.52554",
+        "infectados": "13890",
+        "defunciones": "1939"
+    },
+    {
+        "nombre": "Coahuila de Zaragoza",
+        "Capital": "Saltillo",
+        "lat": "25.42321",
+        "lon": "-101.0053",
+        "infectados": "67961",
+        "defunciones": "8874"
+    },
+    {
+        "nombre": "Colima",
+        "Capital": "Colima",
+        "lat": "19.24997",
+        "lon": "-103.72714",
+        "infectados": "16537",
+        "defunciones": "1755"
+    },
+    {
+        "nombre": "Chiapas",
+        "Capital": "Tuxtla Gutierrez",
+        "lat": "16.75973",
+        "lon": "-93.11308",
+        "infectados": "14096",
+        "defunciones": "2577"
+    },
+    {
+        "nombre": "Chihuahua",
+        "Capital": "Chihuahua",
+        "lat": "28.63528",
+        "lon": "-106.08889",
+        "infectados": "53176",
+        "defunciones": "10347"
+    },
+    {
+        "nombre": "Ciudad de Mexico",
+        "Capital": "Ciudad de Mexico",
+        "lat": "19.42847",
+        "lon": "-99.12766",
+        "infectados": "773588",
+        "defunciones": "47159"
+    },
+    {
+        "nombre": "Durango",
+        "Capital": "Victoria de Durango",
+        "lat": "24.02032",
+        "lon": "-104.65756",
+        "infectados": "36307",
+        "defunciones": "3279"
+    },
+    {
+        "nombre": "Guanajuato",
+        "Capital": "Guanajuato",
+        "lat": "21.018535",
+        "lon": "-101.259941",
+        "infectados": "129918",
+        "defunciones": "13537"
+    },
+    {
+        "nombre": "Guerrero",
+        "Capital": "Chilpancingo",
+        "lat": "17.5506",
+        "lon": "-99.50578",
+        "infectados": "50476",
+        "defunciones": "6280"
+    },
+    {
+        "nombre": "Hidalgo",
+        "Capital": "Pachuca",
+        "lat": "20.11697",
+        "lon": "-98.73329",
+        "infectados": "39654",
+        "defunciones": "7840"
+    },
+    {
+        "nombre": "Jalisco",
+        "Capital": "Guadalajara",
+        "lat": "20.66682",
+        "lon": "-103.39182",
+        "infectados": "98453",
+        "defunciones": "17451"
+    },
+    {
+        "nombre": "Estado de Mexico",
+        "Capital": "Toluca",
+        "lat": "19.28786",
+        "lon": "-99.65324",
+        "infectados": "263288",
+        "defunciones": "49989"
+    },
+    {
+        "nombre": "Michoacan de Ocampo",
+        "Capital": "Morelia",
+        "lat": "19.70078",
+        "lon": "-101.18443",
+        "infectados": "49462",
+        "defunciones": "8048"
+    },
+    {
+        "nombre": "Morelos",
+        "Capital": "Cuernavaca",
+        "lat": "18.9261",
+        "lon": "-99.23075",
+        "infectados": "34247",
+        "defunciones": "4537"
+    },
+    {
+        "nombre": "Nayarit",
+        "Capital": "Tepic",
+        "lat": "21.50951",
+        "lon": "-104.89569",
+        "infectados": "19467",
+        "defunciones": "2735"
+    },
+    {
+        "nombre": "Nuevo Leon",
+        "Capital": "Monterrey",
+        "lat": "25.67507",
+        "lon": "-100.31847",
+        "infectados": "138522",
+        "defunciones": "14462"
+    },
+    {
+        "nombre": "Oaxaca",
+        "Capital": "Oaxaca",
+        "lat": "17.06542",
+        "lon": "-96.72365",
+        "infectados": "53119",
+        "defunciones": "4991"
+    },
+    {
+        "nombre": "Puebla",
+        "Capital": "Puebla",
+        "lat": "19.03793",
+        "lon": "-98.20346",
+        "infectados": "80780",
+        "defunciones": "15298"
+    },
+    {
+        "nombre": "Queretaro",
+        "Capital": "Queretaro",
+        "lat": "20.58806",
+        "lon": "-100.38806",
+        "infectados": "70621",
+        "defunciones": "5406"
+    },
+    {
+        "nombre": "Quintana Roo",
+        "Capital": "Chetumal",
+        "lat": "18.51413",
+        "lon": "-88.30381",
+        "infectados": "42613",
+        "defunciones": "4345"
+    },
+    {
+        "nombre": "San Luis Potosi",
+        "Capital": "San Luis Potosi",
+        "lat": "32.45612",
+        "lon": "-114.77186",
+        "infectados": "68383",
+        "defunciones": "7157"
+    },
+    {
+        "nombre": "Sinaloa",
+        "Capital": "Culiacan",
+        "lat": "24.785019",
+        "lon": "-107.402479",
+        "infectados": "52880",
+        "defunciones": "9849"
+    },
+    {
+        "nombre": "Sonora",
+        "Capital": "Hermosillo",
+        "lat": "29.1026",
+        "lon": "-110.97732",
+        "infectados": "83881",
+        "defunciones": "8961"
+    },
+    {
+        "nombre": "Tabasco",
+        "Capital": "Villahermosa",
+        "lat": "17.98689",
+        "lon": "-92.93028",
+        "infectados": "86077",
+        "defunciones": "5642"
+    },
+    {
+        "nombre": "Tamaulipas",
+        "Capital": "Ciudad Victoria",
+        "lat": "23.74174",
+        "lon": "-99.14599",
+        "infectados": "69367",
+        "defunciones": "8218"
+    },
+    {
+        "nombre": "Tlaxcala",
+        "Capital": "Tlaxcala",
+        "lat": "19.31905",
+        "lon": "-98.19982",
+        "infectados": "19145",
+        "defunciones": "3317"
+    },
+    {
+        "nombre": "Veracruz de Ignacio de la Llave",
+        "Capital": "Xalapa",
+        "lat": "19.53124",
+        "lon": "-96.91589",
+        "infectados": "73488",
+        "defunciones": "13707"
+    },
+    {
+        "nombre": "Yucatan",
+        "Capital": "Merida",
+        "lat": "20.97537",
+        "lon": "-89.61696",
+        "infectados": "51005",
+        "defunciones": "6037"
+    },
+    {
+        "nombre": "Zacatecas",
+        "Capital": "Zacatecas",
+        "lat": "22.76843",
+        "lon": "-102.58141",
+        "infectados": "31272",
+        "defunciones": "3632"
+    }
+]

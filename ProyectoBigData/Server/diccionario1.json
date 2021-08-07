@@ -1,0 +1,258 @@
+[
+    {
+        "Estado": "Aguascalientes",
+		"Capital": "Aguascalientes",
+        "lat": "21.88234",
+        "lon": "-102.28259",
+        "Activos": 68562,
+        "Muertes": 2903
+    },
+    {
+        "Estado": "Baja California",
+		"Capital": "Mexicali",
+        "lat": "32.62781",
+        "lon": "-115.45446",
+        "Activos": 101413,
+        "Muertes": 9984
+    },
+    {
+        "Estado": "Baja California Sur",
+		"Capital": "La Paz",
+        "lat": "24.14437",
+        "lon": "-110.3005",
+        "Activos": 68438,
+        "Muertes": 1592
+    },
+    {
+        "Estado": "Campeche",
+		"Capital": "Campeche",
+        "lat": "19.84386",
+        "lon": "-90.52554",
+        "Activos": 26758,
+        "Muertes": 1467
+    },
+    {
+        "Estado": "Coahuila de Zaragoza",
+		"Capital": "Saltillo",
+        "lat": "25.42321",
+        "lon": "-101.0053",
+        "Activos": 136936,
+        "Muertes": 7911
+    },
+    {
+        "Estado": "Colima",
+		"Capital": "Colima",
+        "lat": "19.24997",
+        "lon": "-103.72714",
+        "Activos": 20108,
+        "Muertes": 1424
+    },
+    {
+        "Estado": "Chiapas",
+		"Capital": "Tuxtla Gutierrez",
+        "lat": "16.75973",
+        "lon": "-93.11308",
+        "Activos": 52957,
+        "Muertes": 2181
+    },
+    {
+        "Estado": "Chihuahua",
+		"Capital": "Chihuahua",
+        "lat": "28.63528",
+        "lon": "-106.08889",
+        "Activos": 68427,
+        "Muertes": 8374
+    },
+    {
+        "Estado": "Ciudad de Mexico",
+		"Capital": "Ciudad de Mexico",
+        "lat": "19.42847",
+        "lon": "-99.12766",
+        "Activos": 1564718,
+        "Muertes": 37767
+    },
+    {
+        "Estado": "Durango",
+		"Capital": "Victoria de Durango",
+        "lat": "24.02032",
+        "lon": "-104.65756",
+        "Activos": 65120,
+        "Muertes": 2749
+    },
+    {
+        "Estado": "Guanajuato",
+		"Capital": "Guanajuato",
+        "lat": "21.018535",
+        "lon": "-101.259941",
+        "Activos": 231098,
+        "Muertes": 11587
+    },
+    {
+        "Estado": "Guerrero",
+		"Capital": "Chilpancingo",
+        "lat": "17.5506",
+        "lon": "-99.50578",
+        "Activos": 60454,
+        "Muertes": 4761
+    },
+    {
+        "Estado": "Hidalgo",
+		"Capital": "Pachuca",
+        "lat": "20.11697",
+        "lon": "-98.73329",
+        "Activos": 56905,
+        "Muertes": 6473
+    },
+    {
+        "Estado": "Jalisco",
+		"Capital": "Guadalajara",
+        "lat": "20.66682",
+        "lon": "-103.39182",
+        "Activos": 153123,
+        "Muertes": 14077
+    },
+    {
+        "Estado": "Estado de Mexico",
+		"Capital": "Toluca",
+        "lat": "19.28786",
+        "lon": "-99.65324",
+        "Activos": 512785,
+        "Muertes": 41321
+    },
+    {
+        "Estado": "Michoacan de Ocampo",
+		"Capital": "Morelia",
+        "lat": "19.70078",
+        "lon": "-101.18443",
+        "Activos": 88006,
+        "Muertes": 6191
+    },
+    {
+        "Estado": "Morelos",
+		"Capital": "Cuernavaca",
+        "lat": "18.9261",
+        "lon": "-99.23075",
+        "Activos": 67850,
+        "Muertes": 3164
+    },
+    {
+        "Estado": "Nayarit",
+		"Capital": "Tepic",
+        "lat": "21.50951",
+        "lon": "-104.89569",
+        "Activos": 23602,
+        "Muertes": 2054
+    },
+    {
+        "Estado": "Nuevo Leon",
+		"Capital": "Monterrey",
+        "lat": "25.67507",
+        "lon": "-100.31847",
+        "Activos": 223998,
+        "Muertes": 11646
+    },
+    {
+        "Estado": "Oaxaca",
+		"Capital": "Oaxaca",
+        "lat": "17.06542",
+        "lon": "-96.72365",
+        "Activos": 54984,
+        "Muertes": 3582
+    },
+    {
+        "Estado": "Puebla",
+		"Capital": "Puebla",
+        "lat": "19.03793",
+        "lon": "-98.20346",
+        "Activos": 142214,
+        "Muertes": 11335
+    },
+    {
+        "Estado": "Queretaro",
+		"Capital": "Queretaro",
+        "lat": "20.58806",
+        "lon": "-100.38806",
+        "Activos": 96279,
+        "Muertes": 4135
+    },
+    {
+        "Estado": "Quintana Roo",
+		"Capital": "Chetumal",
+        "lat": "18.51413",
+        "lon": "-88.30381",
+        "Activos": 39927,
+        "Muertes": 3144
+    },
+    {
+        "Estado": "San Luis Potosi",
+		"Capital": "San Luis Potosi",
+        "lat": "32.45612",
+        "lon": "-114.77186",
+        "Activos": 118323,
+        "Muertes": 5903
+    },
+    {
+        "Estado": "Sinaloa",
+		"Capital": "Culiacan",
+        "lat": "24.785019",
+        "lon": "-107.402479",
+        "Activos": 65139,
+        "Muertes": 7545
+    },
+    {
+        "Estado": "Sonora",
+		"Capital": "Hermosillo",
+        "lat": "29.1026",
+        "lon": "-110.97732",
+        "Activos": 107752,
+        "Muertes": 7553
+    },
+    {
+        "Estado": "Tabasco",
+		"Capital": "Villahermosa",
+        "lat": "17.98689",
+        "lon": "-92.93028",
+        "Activos": 153970,
+        "Muertes": 4608
+    },
+    {
+        "Estado": "Tamaulipas",
+		"Capital": "Ciudad Victoria",
+        "lat": "23.74174",
+        "lon": "-99.14599",
+        "Activos": 115218,
+        "Muertes": 6683
+    },
+    {
+        "Estado": "Tlaxcala",
+		"Capital": "Tlaxcala",
+        "lat": "19.31905",
+        "lon": "-98.19982",
+        "Activos": 45615,
+        "Muertes": 2816
+    },
+    {
+        "Estado": "Veracruz de Ignacio de la Llave",
+		"Capital": "Xalapa",
+        "lat": "19.53124",
+        "lon": "-96.91589",
+        "Activos": 94291,
+        "Muertes": 11143
+    },
+    {
+        "Estado": "Yucatan",
+		"Capital": "Merida",
+        "lat": "20.97537",
+        "lon": "-89.61696",
+        "Activos": 76836,
+        "Muertes": 4189
+    },
+    {
+        "Estado": "Zacatecas",
+		"Capital": "Zacatecas",
+        "lat": "22.76843",
+        "lon": "-102.58141",
+        "Activos": 50045,
+        "Muertes": 3040
+    }
+]
